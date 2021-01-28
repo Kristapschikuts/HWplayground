@@ -56,7 +56,6 @@ else if qty >= 10 {
  Fix this Fatal error inside the if-else statements to print whenever this age can be converted to Int or not!
  */
 
-
 var userInputAge = "33a"
 var convertToInt = Int(userInputAge)
 
