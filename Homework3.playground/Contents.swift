@@ -20,14 +20,6 @@ for period in 1...5 {
  Use a % inside the for loop.
  */
 
-/*
-var arrayOfIntegers = [1,2,3,4,5,6,7,8,9,10]
-for i in arrayOfIntegers
-    if  arrayOfIntegers i%2==0
-print("My even numbers are: \(i)")
-}
-*/
-
 var arrayOfIntegers = [1,2,3,4,5,6,7,8,9,10]
 for evenNumber: Int in arrayOfIntegers{
   if evenNumber % 2 == 0 {
